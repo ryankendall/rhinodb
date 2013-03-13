@@ -14,8 +14,8 @@ Simply extend your class with`DBRecord` to gain the features of rhinodb.
 
 eg.
   
-  <?php
-  class User extends DBRecord {}
+    <?php
+    class User extends DBRecord {}
 
 But what use is it??
 --------------------
