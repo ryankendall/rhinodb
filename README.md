@@ -1,8 +1,8 @@
 rhinodb
 =======
 
-DB -> Object Framework for PHP
-------------------------------
+ORM Framework for PHP
+---------------------
 
 rhinodb does what PHP should have done from the start. 
 It creates a PHP object from a database row.
